@@ -74,9 +74,4 @@ Greeny Care integrates several sensors and actuators to monitor and adjust the i
 ## Contributions
 Feel free to contribute to the development of Greeny Care by submitting pull requests or opening issues in the repository.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any questions or feedback, please contact [yourname@yourdomain.com](mailto:yourname@yourdomain.com).
 
